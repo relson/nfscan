@@ -1,5 +1,5 @@
 # nfscan 
-[![Build Status](https://travis-ci.org/nfscan/nfscan.svg?branch=master)](https://travis-ci.org/nfscan/nfscan) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/nfscan/nfscan/master/LICENSE)
+[![Build Status](https://travis-ci.org/relson/nfscan.svg?branch=master)](https://travis-ci.org/nfscan/nfscan) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/nfscan/nfscan/master/LICENSE)
 
 NFScan is a free, open-source software, available to non-profit organizations to receive donations effectively.
 
@@ -9,7 +9,7 @@ Frequent asked questions in [Portuguese](http://nfscan.cc/faq.html)
 
 ## Setting up development environment
 
-Walkthrough in [Portuguese](https://github.com/nfscan/nfscan/wiki/Develpment-environment---%5BPortuguese%5D)
+Walkthrough in [Portuguese](https://github.com/relson/nfscan/wiki/Develpment-environment---%5BPortuguese%5D)
 
 ## Mobile
 
