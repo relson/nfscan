@@ -24,8 +24,8 @@
     </description>
 
     <scm>
-        <connection>scm:git:https://github.com:nfscan/nfscan.git</connection>
-        <url>https://github.com/nfscan/nfscan</url>
+        <connection>scm:git:https://github.com:relson/nfscan.git</connection>
+        <url>https://github.com/relson/nfscan</url>
     </scm>
 
     <issueManagement>
@@ -35,7 +35,7 @@
 
     <ciManagement>
         <system>TravisCI</system>
-        <url>https://travis-ci.org/nfscan/nfscan</url>
+        <url>https://travis-ci.org/relson/nfscan</url>
     </ciManagement>
 
     <licenses>
